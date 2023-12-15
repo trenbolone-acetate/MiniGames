@@ -1,6 +1,6 @@
 function createPage() {
     document.body.innerHTML = `   
-    <a href="/index.html" id="back"><button class="backToMenu"><div class="arrow"></div>Back to menu!</button></a> 
+    <a href="/" id="back"><button class="backToMenu"><div class="arrow"></div>Back to menu!</button></a> 
             <p>Ask your question and I may answer</p>
             <div id="question">
                 <label for="txtInput">Your question here: </label>
